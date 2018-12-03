@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import logo from '../img/nats-logo.png'
+import logo from '../img/nats-logo.svg'
 import './style.css'
 
 export default class NumberWidget extends Component {
