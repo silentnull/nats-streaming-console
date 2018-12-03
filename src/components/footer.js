@@ -9,7 +9,7 @@ export default class NumberWidget extends Component {
     return (
       <div className="dashboard-footer">
         <a
-          href="http://kuali.co"
+          href="https://nats.io"
           style={{ display: 'block', color: 'white', textDecoration: 'none' }}
           target="_blank"
         >
