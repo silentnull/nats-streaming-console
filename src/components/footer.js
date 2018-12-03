@@ -13,7 +13,7 @@ export default class NumberWidget extends Component {
           style={{ display: 'block', color: 'white', textDecoration: 'none' }}
           target="_blank"
         >
-          Sponsored by{' '}
+          Product of {' '}
           <img style={{ width: 60, position: 'relative', top: 3 }} src={logo} />
         </a>
       </div>
